@@ -1,6 +1,8 @@
 Arduino Uno R3 Motion Detection System
 
 A simple **motion detection circuit** built using an **Arduino Uno R3 and PIR (Passive Infrared) sensor**. The system detects movement from nearby objects or people and activates a **buzzer and LED** as an alert.
+This project was first simulated in tinkercad, an open source circuit simulator. 
+Here's my Tinkercad link for this project: https://www.tinkercad.com/things/9v8QUbc2ab3-motion-detection-circuit-
 
 ## 📌 Project Overview
 
